@@ -2,9 +2,6 @@
 
 A modern, interactive portfolio website showcasing my journey as a Software Development Engineer. Built with React and featuring smooth animations, responsive design, and a sleek dark theme.
 
-## 🌐 Live 
-**[Visit Portfolio](https://portfolio-metaloopa.vercel.app)**
-
 ## ✨ Features
 - **Interactive UI** with smooth animations and transitions
 - **Responsive Design** optimized for all devices
@@ -19,41 +16,3 @@ A modern, interactive portfolio website showcasing my journey as a Software Deve
 - **Animations**: CSS3 Transforms, Keyframes
 - **Deployment**: Vercel
 - **Design**: Glassmorphism, Dark Theme
-
-## 📸 Screenshots
-
-### Home Page
-![Home](screenshots/home.png)
-
-### About Me
-![About](screenshots/about.png)
-
-### Work Experience
-![Experience](screenshots/experience.png)
-
-### Projects Showcase
-![Projects](screenshots/projects.png)
-
-### Skills & Technologies
-![Skills](screenshots/skills.png)
-
-### Contact Information
-![Contact](screenshots/contact.png)
-
-## 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/metal-oopa/personal-portfolio.git
-
-# Navigate to project directory
-cd personal-portfolio
-
-# Install dependencies
-npm install
-
-# Start development server
-npm start
-```
-
----
