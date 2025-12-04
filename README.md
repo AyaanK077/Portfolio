@@ -2,9 +2,6 @@
 
 A modern, interactive portfolio website showcasing my journey as a Software Development Engineer. Built with React and featuring smooth animations, responsive design, and a sleek dark theme.
 
-## 🌐 Live 
-**[Visit Portfolio](https://portfolio-metaloopa.vercel.app)**
-
 ## ✨ Features
 - **Interactive UI** with smooth animations and transitions
 - **Responsive Design** optimized for all devices
