@@ -121,7 +121,7 @@ const projects = [
     id: 6,
     title: 'Portfolio',
     description: 'A modern, interactive portfolio website showcasing my journey as a Software Development Engineer. Built with React and featuring smooth animations, responsive design, and a sleek dark theme.',
-    technologies: ['React', 'SCSS', 'FontAwesome', 'CSS3', 'Vercel',],
+    technologies: ['React', 'SCSS', 'FontAwesome', 'CSS3', 'Netlify',],
     category: 'Websites',
     status: 'Completed',
     year: 'December 2025',
