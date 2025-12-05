@@ -50,7 +50,7 @@ const workExperience = [
     company: 'Steiner Soccer Academy',
     companyUrl: 'https://www.steinersocceracademy.com/',
     position: 'Founder',
-    duration: 'June 2021 — Present',
+    duration: 'June 2021 — August 2025',
     location: 'Austin, Texas',
     achievements: [
       'Founded the first-ever indoor soccer academy in Steiner Ranch, scaling from 0 to 50+ active players and conducting 400+ training sessions with a focus on technical development and leadership.',
