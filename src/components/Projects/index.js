@@ -134,7 +134,7 @@ const projects = [
     ],
     images: [panama],
     githubUrl: 'https://github.com/AyaanK077/Portfolio',
-    liveUrl: null,
+    liveUrl: 'https://ayaanrkhan.com/',
     isPrivate: false
   },
   {
