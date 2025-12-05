@@ -39,17 +39,18 @@ const About = () => {
             />
           </h1>
           <p>
-            I’m a DevOps and Full Stack Engineer with over 2 years of
-            experience, specializing in automating workflows, optimizing CI/CD
-            pipelines, and deploying intelligent systems. My expertise spans
-            across DevOps, full-stack, blockchain development, and aritificial
-            intelligence, with a strong foundation in security.
+            Hi! I’m Ayaan Khan, a Software Engineering student at UT Dallas with a focus on 
+            frontend development, 
+            AI integration, and full-stack systems.
+            I’m always looking to deepen my skill set through hands-on projects, 
+            collaborative environments, and real-world problem solving.
           </p>
           <p>
-            I’m passionate about solving real-world problems through innovative
-            technology and continuously learning to stay ahead of industry
-            trends. Whether it's streamlining infrastructure or building
-            scalable applications, I bring a holistic approach to every project.
+            My future plans include joining Pennymac Financial Services this summer as a
+             fulltime Digital Technology Organization Rotational Software Engineer.
+              I am looking forward to gaining experience across different teams, 
+              learning from talented engineers, and growing into a well rounded developer 
+              while contributing to meaningful projects!
           </p>
         </div>
 

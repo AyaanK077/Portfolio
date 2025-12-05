@@ -10,51 +10,52 @@ import './index.scss'
 const workExperience = [
   {
     id: 1,
-    company: 'Mak Design Private Limited',
-    companyUrl: 'https://www.makdesign.in/',
-    position: 'Software Development Engineer',
-    duration: 'May 2024 – Present',
-    location: 'Mumbai, Maharashtra (Remote)',
+    company: 'Pennymac Financial Services',
+    companyUrl: 'https://www.pennymac.com/',
+    position: 'DTO Rotational Software Engineer',
+    duration: 'Starting June 2026',
+    location: 'Carralton, Texas ',
     achievements: [
-      'Built a real-time notification module using Django and MongoDB, secured by end-to-end encryption, ensuring timely and confidential delivery of critical alerts to end-users.',
-      'Created a framework for performance analytics loading time, click event response time for maps rendered by different libraries using JavaScript and connected it to a React frontend.'
+      'I am so excited to begin my role at Pennymac this summer as a DTO Rotational Software Engineer! ',
+      'It feels like the right next step in my career, and I am looking forward to learning from experienced teams, contributing to real world projects, and growing in an environment that values innovation, collaboration, and continuous improvement.' 
     ]
   },
   {
     id: 2,
-    company: 'Defence Research and Development Organisation (DRDO)',
-    companyUrl: 'https://www.drdo.gov.in/drdo/',
-    position: 'Software Development Engineer',
-    duration: 'May 2023 – May 2024',
-    location: 'Gwalior, Madhya Pradesh (Hybrid)',
+    company: 'GigHQ.ai',
+    companyUrl: 'https://www.gighq.ai/' ,
+    position: 'Software Engineering Intern',
+    duration: 'Feb 2025 – Sep 2025',
+    location: 'Austin, Texas (Remote)',
     achievements: [
-      'Engineered a heavy-gas dispersion model (Java), with 92% predictive accuracy, enhancing hazard prediction capabilities for safety teams.',
-      'Designed and implemented a Java Swing GUI, validated through improved usability testing, to streamline and simplify end-user interactions.',
-      'Developed a 2D plotting tool in Python backed by a Flask API, enabling data visualization that improved decision-making clarity among project stakeholders.'
+      'Co-developed ResumeRank, an AI-powered resume evaluation engine using LLMs (Gemini/OpenAI) to analyze resumes against job descriptions and generate insightful feedback; supported 300+ users with a 30% increase in interview conversion rate among test users.',
+      'Built a production-grade job post parser using Google Gemini API, extracting and summarizing key data fields from unstructured listings, reducing manual parsing time by 80%.',
+      'Automated onboarding and engagement workflows using n8n, connecting Firebase, Google Sheets, and Gmail APIs to send tailored emails and track signups, streamlining over 500+ emails to users..'
     ]
   },
   {
     id: 3,
-    company: 'Verified Network',
-    companyUrl: 'https://www.verified.network/',
-    position: 'DevOps Engineer — Contract',
-    duration: 'February 2023 — May 2023',
-    location: 'Switzerland (Remote)',
+    company: 'Kappa Theta Pi- Professional Technology Organization',
+    companyUrl: 'https://www.ktputd.org/',
+    position: 'Software Project Lead',
+    duration: 'February 2025 — Present',
+    location: 'Dallas, Texas',
     achievements: [
-      'Redesigned the trading platform\'s core engine by implementing an order-matching system using IPFS Merkle DAG and IPFS pub-sub on a Node.js/Express.js server, reducing transaction times by 70% and increasing marketplace efficiency.',
-      'Achieved 90% test coverage by architecting comprehensive test suites with Chai and Mocha, ensuring robust code quality and reliability.',
-      'Engineered the CI/CD pipeline (GitHub Actions and AWS CodeDeploy) resulting in fully automated deployments and accelerating release cycles.'
+      'Managed a 6-member team through weekly Agile sprints to build an AI-powered full-stack app analyzing company credit data and investment potential using GitHub, Jira, and Figma.',
+      'Directed technical and career development workshops for 50+ students while participating in 3+ hackathons, driving cross-functional teamwork, communication, and helping 20% secure internships.',
     ]
   },
   {
     id: 4,
-    company: 'Metarootz',
-    companyUrl: 'https://www.metarootz.io/',
-    position: 'Software Development Engineer — Contract',
-    duration: 'December 2022 — February 2023',
-    location: 'Dubai, UAE (Remote)',
+    company: 'Steiner Soccer Academy',
+    companyUrl: 'https://www.steinersocceracademy.com/',
+    position: 'Founder',
+    duration: 'June 2021 — Present',
+    location: 'Austin, Texas',
     achievements: [
-      'Developed a social media platform using Node.js/Express.js, Next.js, and MongoDB, scaled it to 10,000+ active users, and integrated WebSocket-based voice/video calling to boost user engagement and interaction.'
+      'Founded the first-ever indoor soccer academy in Steiner Ranch, scaling from 0 to 50+ active players and conducting 400+ training sessions with a focus on technical development and leadership.',
+      'Designed and launched the academy’s website (TypeScript, HTML/CSS) with a custom-built scheduling system; platform supports 20+ recurring users and improved client coordination by 80%.',
+      'Led marketing, operations, and customer engagement independently—resulting in full-capacity enrollment for 5 consecutive seasons and 70% client retention across core age groups.',
     ]
   }
 ]
@@ -82,9 +83,15 @@ const Experience = () => {
             />
           </h1>
           <p>
-            My professional journey spans across various industries and technologies,
-            from defense systems to trading platforms and social media applications.
-            Each role has contributed to my growth as a versatile software engineer.
+            I am someone who adapts quickly to new environments and challenges. 
+            I have worked in fast paced AI startup settings where priorities change 
+            constantly and learning is nonstop, and I am also part of a technology 
+            organization on campus that keeps me connected to a strong community of 
+            builders. On top of that, I founded my own business, which taught me how 
+            to take ownership, navigate uncertainty, and find solutions even when the 
+            path is not clear. All of these experiences have shaped me into a flexible, 
+            driven, and collaborative developer who can step into different roles and 
+            contribute wherever the team needs me.
           </p>
         </div>
 

@@ -31,17 +31,19 @@ const Skills = () => {
             <br />
           </h1>
           <p>
-            I have a strong foundation in both development and operations, with
-            a focus on creating seamless, efficient systems. My experience
-            includes automating deployment processes, designing scalable
-            applications, and working with cloud technologies to deliver
-            reliable solutions.
+            I have experience across full stack development, artificial intelligence, 
+            cloud services, and automation, and I try to bring a calm and organized mindset
+             to every project. I care about writing clean reliable code and designing 
+             systems that make sense. I am always learning and pushing myself to improve.
+              My goal is to build software that feels fast, intuitive, and genuinely useful
+               while being someone people enjoy working with.
           </p>
           <p>
-            My skill set spans across DevOps, machine learning, full-stack
-            development, and cloud infrastructure. I’m committed to staying
-            updated with the latest advancements and continually refining my
-            expertise to tackle complex challenges effectively.
+            I enjoy building software, but I enjoy building it with the right people even more.
+            I am comfortable taking the lead when 
+             needed, but I am just as comfortable supporting others and making sure the
+            project moves forward smoothly. I see teamwork as a chance to learn from
+             different perspectives and create solutions that none of us could build alone.
           </p>
         </div>
 
