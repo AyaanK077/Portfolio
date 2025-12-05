@@ -14,7 +14,7 @@ const workExperience = [
     companyUrl: 'https://www.pennymac.com/',
     position: 'DTO Rotational Software Engineer',
     duration: 'Starting June 2026',
-    location: 'Carralton, Texas ',
+    location: 'Carrolton, Texas ',
     achievements: [
       'I am so excited to begin my role at Pennymac this summer as a DTO Rotational Software Engineer! ',
       'It feels like the right next step in my career, and I am looking forward to learning from experienced teams, contributing to real world projects, and growing in an environment that values innovation, collaboration, and continuous improvement.' 
