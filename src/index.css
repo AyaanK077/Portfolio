@@ -12,3 +12,11 @@ body {
   background: #252525;
   overflow: hidden;
 }
+
+/* Mobile responsive - enable scrolling */
+@media screen and (max-width: 768px) {
+  body {
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+}

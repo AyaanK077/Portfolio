@@ -16,3 +16,22 @@
     color: #00ff7f;
   }
 }
+
+/* Mobile responsive styles for skills page */
+@media screen and (max-width: 768px) {
+  .tagcloud-wrap {
+    float: none;
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+    min-height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .tagcloud {
+      font-size: 16px;
+      margin: 0 auto;
+    }
+  }
+}

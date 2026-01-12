@@ -79,3 +79,49 @@
     transform: rotateX(90deg);
   }
 }
+
+/* Mobile responsive styles for about page */
+@media screen and (max-width: 768px) {
+  .stage-cube-cont {
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding-top: 0;
+    margin-top: 30px;
+    right: auto;
+    overflow: visible;
+    display: flex;
+    justify-content: center;
+    min-height: 250px;
+  }
+
+  .cubespinner {
+    margin-left: 0;
+    transform-origin: 75px 75px 0;
+
+    div {
+      width: 150px;
+      height: 150px;
+      font-size: 75px;
+    }
+
+    .face1 {
+      transform: translateZ(75px);
+    }
+    .face2 {
+      transform: rotateY(90deg) translateZ(75px);
+    }
+    .face3 {
+      transform: rotateY(90deg) rotateX(90deg) translateZ(75px);
+    }
+    .face4 {
+      transform: rotateY(180deg) rotateZ(90deg) translateZ(75px);
+    }
+    .face5 {
+      transform: rotateY(-90deg) rotateZ(90deg) translateZ(75px);
+    }
+    .face6 {
+      transform: rotateX(-90deg) translateZ(75px);
+    }
+  }
+}

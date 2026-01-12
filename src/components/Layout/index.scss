@@ -120,6 +120,60 @@
   }
 }
 
+/* Mobile responsive styles for layout */
+@media screen and (max-width: 768px) {
+  .page {
+    height: auto;
+    min-height: 100vh;
+  }
+
+  .container {
+    position: relative;
+    height: auto;
+    min-height: auto;
+    top: auto;
+    padding: 100px 20px 50px 70px;
+    animation: fadeIn 0.5s forwards;
+    animation-delay: 0.5s;
+  }
+
+  .tags {
+    display: none;
+  }
+
+  .container.contact-page,
+  .container.about-page,
+  .container.skills-page,
+  .container.experience-page,
+  .container.projects-page {
+    .text-zone {
+      position: relative;
+      left: auto;
+      top: auto;
+      transform: none;
+      width: 100%;
+      max-height: none;
+      display: block;
+      margin-bottom: 30px;
+
+      h1 {
+        font-size: 36px;
+        margin-bottom: 20px;
+        left: 0;
+
+        &:before,
+        &:after {
+          display: none;
+        }
+      }
+
+      p {
+        font-size: 15px;
+      }
+    }
+  }
+}
+
 // n is number of stars required
 @function multiple-box-shadow($n) {
   $value: '#{random(2000)}px #{random(2000)}px #FFF';
@@ -139,6 +193,14 @@ html {
   height: 100%;
   // background: radial-gradient(ellipse at bottom, #1B2735 0%, #090A0F 100%);
   overflow: hidden;
+}
+
+/* Mobile responsive - enable scrolling */
+@media screen and (max-width: 768px) {
+  html {
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
 }
 
 #stars {

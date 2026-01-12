@@ -144,3 +144,50 @@ a.projects-link {
 .random {
   color: #b9b9b9;
 }
+
+/* Mobile responsive styles for sidebar */
+@media screen and (max-width: 768px) {
+  .nav-bar {
+    width: 50px;
+    min-height: 100%;
+    height: auto;
+
+    .logo {
+      padding: 5px 0;
+
+      img {
+        width: 45px;
+
+        &.sub-logo {
+          width: 40px;
+        }
+      }
+    }
+
+    nav {
+      height: auto;
+      top: 50%;
+      transform: translateY(-50%);
+      margin-top: 0;
+
+      a {
+        font-size: 18px;
+        line-height: 40px;
+        height: 40px;
+
+        &:after {
+          display: none;
+        }
+      }
+    }
+
+    ul {
+      bottom: 10px;
+
+      li a {
+        font-size: 20px;
+        padding: 5px 0;
+      }
+    }
+  }
+}

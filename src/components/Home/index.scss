@@ -90,3 +90,51 @@
   }
 }
 
+/* Mobile responsive styles for home page */
+@media screen and (max-width: 768px) {
+  .home-page {
+    .text-zone {
+      position: relative;
+      left: auto;
+      top: auto;
+      transform: none;
+      width: 100%;
+      max-height: none;
+      padding: 0;
+
+      h1 {
+        font-size: 36px;
+        line-height: 42px;
+
+        &:before {
+          margin-top: -30px;
+          left: 0;
+          font-size: 14px;
+        }
+
+        &:after {
+          margin-top: 10px;
+          margin-left: 10px;
+          font-size: 14px;
+        }
+      }
+
+      img {
+        width: 24px;
+        margin-left: 10px;
+      }
+    }
+
+    h2 {
+      font-size: 10px;
+      letter-spacing: 2px;
+    }
+
+    .flat-button {
+      font-size: 11px;
+      padding: 8px 14px;
+      letter-spacing: 2px;
+    }
+  }
+}
+
