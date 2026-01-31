@@ -93,7 +93,7 @@
 /* Mobile responsive styles for home page */
 @media screen and (max-width: 768px) {
   .home-page {
-    overflow-x: hidden;
+    overflow-x: auto;
 
     .text-zone {
       position: relative;
