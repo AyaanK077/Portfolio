@@ -320,7 +320,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
     .projects-container {
         position: relative;
         right: auto;
@@ -366,25 +366,25 @@
     .project-links {
         gap: 10px;
     }
-}
 
-@media screen and (max-width: 480px) {
-    .projects-container {
-        padding: 0 15px;
-    }
+    @media screen and (max-width: 480px) {
+        .projects-container {
+            padding: 0 15px;
+        }
 
-    .project-content {
-        padding: 15px;
-    }
+        .project-content {
+            padding: 15px;
+        }
 
-    .project-header .project-title {
-        font-size: 18px;
-    }
+        .project-header .project-title {
+            font-size: 18px;
+        }
 
-    .filter-container {
-        .filter-btn {
-            padding: 6px 12px;
-            font-size: 12px;
+        .filter-container {
+            .filter-btn {
+                padding: 6px 12px;
+                font-size: 12px;
+            }
         }
     }
 }
