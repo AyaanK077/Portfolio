@@ -46,11 +46,10 @@ const About = () => {
             collaborative environments, and real-world problem solving.
           </p>
           <p>
-            My future plans include joining Pennymac Financial Services this summer as a
-             fulltime Digital Technology Organization Rotational Software Engineer.
-              I am looking forward to gaining experience across different teams, 
-              learning from talented engineers, and growing into a well rounded developer 
-              while contributing to meaningful projects!
+          Outside of technology, I enjoy playing soccer, spending time with friends, 
+          traveling, trying new experiences, and unwinding with video games. I value
+          balance and bring the same curiosity, competitiveness, and drive from my interests
+          into my work.
           </p>
         </div>
 
