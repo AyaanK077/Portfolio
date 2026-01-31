@@ -47,7 +47,7 @@ const About = () => {
           </p>
           <p>
           Outside of technology, I enjoy playing soccer, spending time with friends, 
-          traveling, trying new experiences, and unwinding with video games. I value
+          traveling, and unwinding with video games. I value
           balance and bring the same curiosity, competitiveness, and drive from my interests
           into my work.
           </p>
