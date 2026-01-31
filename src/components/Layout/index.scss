@@ -121,7 +121,7 @@
 }
 
 /* Mobile responsive styles for layout */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 320px) {
   .page {
     height: auto;
     min-height: 100vh;
@@ -196,7 +196,7 @@ html {
 }
 
 /* Mobile responsive - enable scrolling */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 320px) {
   html {
     overflow-y: auto;
     overflow-x: hidden;

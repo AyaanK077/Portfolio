@@ -14,7 +14,7 @@ body {
 }
 
 /* Mobile responsive - enable scrolling */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 320px) {
   body {
     overflow-y: auto;
     overflow-x: hidden;

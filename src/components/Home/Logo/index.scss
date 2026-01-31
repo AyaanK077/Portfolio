@@ -37,3 +37,13 @@
   stroke: #ffd700;
   stroke-width: 10;
 }
+
+/* Mobile responsive styles for logo */
+@media screen and (max-width: 320px) {
+  .logo-container {
+    width: 250px;
+    height: 380px;
+    right: 5%;
+    top: 20%;
+  }
+}
